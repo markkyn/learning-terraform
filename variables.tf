@@ -1,6 +1,6 @@
 variable "aws_region" {
   type    = string
-  default = ""
+  default = "sa-east-1"
 }
 
 variable "vpc_name" {
